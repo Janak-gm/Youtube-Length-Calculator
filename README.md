@@ -1,6 +1,6 @@
 # YouTube Length Calculator
 
-🚀 **YouTube Length Calculator** is a web-based tool that helps users calculate the total duration of any YouTube video or playlist, even at different playback speeds (1x, 1.25x, 1.5x, 2x). It is a simple yet effective utility for content consumers and creators to manage their time efficiently.
+🚀 **YouTube Length Calculator** is a web-based tool that helps users calculate the total duration of any YouTube video or playlist, even at different playback speeds (1x, 1.25x, 1.5x, 2x). It is a simple yet effective utility for content consumers and creators to manage their time efficiently. 
 
 ## 🌟 Features
 
