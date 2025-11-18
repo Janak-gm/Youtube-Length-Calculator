@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyBn5bpfGb8JSYFCg76rmkcEAv5puxsCvBw"; 
+const API_KEY = process.env.API_KEY;
 
 // Extracts YouTube Video/Playlist ID from URL 
 function extractYouTubeId(url) {
